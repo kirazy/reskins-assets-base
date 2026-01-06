@@ -1,12 +1,12 @@
 {
-    "name": "ar-assets-base",
+    "name": "reskins-assets-base",
     "version": "1.0.0",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "title": "Artisanal Reskins: Vanilla Assets",
     "author": "Kirazy",
     "contact": "https://discord.gg/qAvSyzZFPr",
+    "homepage": "https://github.com/kirazy/reskins-assets-base",
     "dependencies": [
-        "base",
-        "~ ar-assets-api"
+        "base"
     ]
 }
