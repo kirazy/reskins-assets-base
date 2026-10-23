@@ -1,25 +1,30 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.1.0
+Version: 2.2.0
 Date: ????
   Features:
-    - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`
-    - Added all Factorio 2.0 centrifuge sprites to `graphics/entity/centrifuge`; the entity has been re-rendered in Factorio 2.1
-    - Added all Factorio 2.0 heat exchanger sprites to `graphics/entity/heat-exchanger` to support use of the old model in Factorio 2.1
-    - Added all Factorio 2.0 oil refinery sprites to `graphics/entity/oil-refinery` to support use of the old model in Factorio 2.1
-    - Added new tintable sprite sets for the pumpjack, allowing to procedurally tint the entire structure, the standard stripe, or the accented portions of the structure
-      - Includes the Factorio 2.1 pumpjack sprites in `graphics/entity/pumpjack` to support use of the new model in Factorio 2.0
-    - Added new tintable sprites for the heat pipe, allowing to procedurally tint the heat pipes and the metal plates separately
-    - Added new tintable sprites for the lab and related technology research speed
-    - Added tintable boiler fire sprites and icon layers
-  Changes:
-    - Updated boiler icon masks
+    - Added all Factorio 2.0 centrifuge sprites to `graphics/entity/centrifuge`; the entity has been re-rendered in Factorio 2.1.
+    - Added all Factorio 2.0 heat exchanger sprites to `graphics/entity/heat-exchanger` to support use of the old model in Factorio 2.1.
+    - Added all Factorio 2.0 oil refinery sprites to `graphics/entity/oil-refinery` to support use of the old model in Factorio 2.1.
+    - Added new tintable sprite sets for the pumpjack, allowing to procedurally tint the entire structure, the standard stripe, or the accented portions of the structure.
+      - Includes the Factorio 2.1 pumpjack sprites in `graphics/entity/pumpjack` to support use of the new model in Factorio 2.0.
+    - Added new tintable sprites for the heat pipe, allowing to procedurally tint the heat pipes and the metal plates separately.
+    - Added new tintable sprites for the lab and related technology research speed.
+    - Added tintable boiler fire sprites and icon layers.
   Breaking Changes:
-    - Removed `graphics/entity/pumpjack/pumpjack-horsehead-mask.png`
-    - Removed `graphics/entity/pumpjack/pumpjack-horsehead-highlights.png`
-    - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`
-    - Numerous files have been renamed to conform to the naming conventions defined by Artisanal Reskins: Assets API
+    - Removed `graphics/entity/pumpjack/pumpjack-horsehead-mask.png`.
+    - Removed `graphics/entity/pumpjack/pumpjack-horsehead-highlights.png`.
+    - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`.
+    - Numerous files have been renamed to conform to the naming conventions defined by Artisanal Reskins: Assets API.
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2026-07-12
+  Features:
+    - Updated for Factorio 2.1.
+    - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`.
+  Changes:
+    - Updated boiler icon masks.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-01-11
   Features:
-    - Initial release
+    - Initial release.
