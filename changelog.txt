@@ -6,6 +6,7 @@ Date: ????
     - Added new tintable sprites for the heat pipe, allowing to procedurally tint the heat pipes and the metal plates separately.
     - Added new tintable sprites for the lab and related technology research speed.
     - Added tintable boiler fire sprites and icon layers.
+    - Added tintable sprites for assembling machines 1, 2 and 3, including tintable status lights.
   Breaking Changes:
     - Removed `graphics/entity/pumpjack/pumpjack-horsehead-mask.png`.
     - Removed `graphics/entity/pumpjack/pumpjack-horsehead-highlights.png`.
