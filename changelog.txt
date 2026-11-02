@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
-Date: ????
+Date: 2026-11-01
   Features:
     - Added new tintable sprite sets for the pumpjack, allowing to procedurally tint the entire structure, the standard stripe, or the accented portions of the structure.
     - Added new tintable sprites for the heat pipe, allowing to procedurally tint the heat pipes and the metal plates separately.
