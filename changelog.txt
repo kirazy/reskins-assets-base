@@ -3,6 +3,9 @@ Version: 2.2.1
 Date: ????
   Features:
     - Added updated tintable sprites for the centrifuge.
+    - Added frozen sprites for the electric furnace.
+  Changes:
+    - Updated electric furnace remnants sprites using revised mask process.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
