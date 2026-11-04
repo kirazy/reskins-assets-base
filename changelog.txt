@@ -5,6 +5,7 @@ Date: ????
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace.
     - Added the turbo transport belt sprites, and frozen sprites for the transport belts.
+    - Added the frozen sprites of Factorio 2.0 for the classic assembling machine, its pipes, and the classic oil refinery.
   Changes:
     - Updated electric furnace remnants sprites using revised mask process.
 ---------------------------------------------------------------------------------------------------
