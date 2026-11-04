@@ -4,6 +4,7 @@ Date: ????
   Features:
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace.
+    - Added the turbo transport belt sprites, and frozen sprites for the transport belts.
   Changes:
     - Updated electric furnace remnants sprites using revised mask process.
 ---------------------------------------------------------------------------------------------------
