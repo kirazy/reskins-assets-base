@@ -1,11 +1,14 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.1
 Date: ????
+  Breaking Changes:
+    - Renamed the base layer of the oil gathering technology icon to `graphics/technology/oil-gathering/oil-gathering-base-base.png`.
   Features:
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace.
     - Added the turbo transport belt sprites, and frozen sprites for the transport belts.
     - Added the technology icons of the battery and the lab.
+    - Added the water pumpjack variant of the oil gathering technology icon, and the nuclear power technology icons of each reactor fuel and material and of Realistic Reactor Glow, as variants of the base layers in `graphics/technology/oil-gathering` and `graphics/technology/nuclear-power`, moved from Artisanal Reskins: Bob's Assets and Artisanal Reskins: Assorted Assets.
   Changes:
     - Updated electric furnace remnants sprites using revised mask process.
 ---------------------------------------------------------------------------------------------------
