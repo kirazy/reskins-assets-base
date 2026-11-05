@@ -3,6 +3,7 @@ Version: 2.2.1
 Date: ????
   Breaking Changes:
     - Renamed the base layer of the oil gathering technology icon to `graphics/technology/oil-gathering/oil-gathering-base-base.png`.
+    - Renamed the technology icons of the quality module to `graphics/technology/modules/5-lights/quality/quality-{tier}.png`.
   Features:
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace.
