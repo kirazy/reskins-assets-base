@@ -1,9 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 2.2.1
+Version: 2.3.0
 Date: ????
-  Breaking Changes:
-    - Renamed the base layer of the oil gathering technology icon to `graphics/technology/oil-gathering/oil-gathering-base-base.png`.
-    - Renamed the technology icons of the quality module to `graphics/technology/modules/5-lights/quality/quality-{tier}.png`.
   Features:
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace.
@@ -12,6 +9,9 @@ Date: ????
     - Added the water pumpjack variant of the oil gathering technology icon, and the nuclear power technology icons of each reactor fuel and material and of Realistic Reactor Glow, as variants of the base layers in `graphics/technology/oil-gathering` and `graphics/technology/nuclear-power`, moved from Artisanal Reskins: Bob's Assets and Artisanal Reskins: Assorted Assets.
   Changes:
     - Updated electric furnace remnants sprites using revised mask process.
+  Breaking Changes:
+    - Renamed the base layer of the oil gathering technology icon to `graphics/technology/oil-gathering/oil-gathering-base-base.png`.
+    - Renamed the technology icons of the quality module to `graphics/technology/modules/5-lights/quality/quality-{tier}.png`.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
