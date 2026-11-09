@@ -5,11 +5,10 @@ Date: ????
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace, the 2, 4, and 6 slot beacons, and the transport belts.
     - Added the turbo transport belt sprites.
-    - Added the battery and lab technology icons.
+    - Added the battery, lab, and radar technology icons.
     - Added the water pumpjack and nuclear power technology icon variants to `graphics/technology/oil-gathering` and `graphics/technology/nuclear-power`.
-    - Added the radar technology to `graphics/technology/radar`.
   Changes:
-    - Updated electric furnace remnants sprites using revised mask process.
+    - Updated the electric furnace remnants sprites using the revised mask process.
   Breaking Changes:
     - Renamed the base layer of the oil gathering technology icon to `graphics/technology/oil-gathering/oil-gathering-base-base.png`.
     - Renamed the technology icons of the quality module to `graphics/technology/modules/5-lights/quality/quality-{tier}.png`.
