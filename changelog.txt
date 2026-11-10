@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.3.0
-Date: ????
+Date: 2026-11-09
   Features:
     - Added updated tintable sprites for the centrifuge.
     - Added frozen sprites for the electric furnace, the 2, 4, and 6 slot beacons, and the transport belts.
